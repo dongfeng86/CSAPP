@@ -5,6 +5,8 @@ VisualStudioVersion = 14.0.25420.1
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "数的转换", "数的转换\数的转换.vcxproj", "{AC7A9636-452D-4E34-8553-5EE76757549A}"
 EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "溢出错误", "溢出错误\溢出错误.vcxproj", "{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|x64 = Debug|x64
@@ -21,6 +23,14 @@ Global
 		{AC7A9636-452D-4E34-8553-5EE76757549A}.Release|x64.Build.0 = Release|x64
 		{AC7A9636-452D-4E34-8553-5EE76757549A}.Release|x86.ActiveCfg = Release|Win32
 		{AC7A9636-452D-4E34-8553-5EE76757549A}.Release|x86.Build.0 = Release|Win32
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Debug|x64.ActiveCfg = Debug|x64
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Debug|x64.Build.0 = Debug|x64
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Debug|x86.ActiveCfg = Debug|Win32
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Debug|x86.Build.0 = Debug|Win32
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Release|x64.ActiveCfg = Release|x64
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Release|x64.Build.0 = Release|x64
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Release|x86.ActiveCfg = Release|Win32
+		{EFAA9A38-6FE1-45FD-8B84-1976A5C18044}.Release|x86.Build.0 = Release|Win32
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
